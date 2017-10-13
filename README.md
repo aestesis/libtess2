@@ -14,10 +14,11 @@ The API was changed to loosely resemble the OpenGL vertex array API. The process
 The code is released under SGI FREE SOFTWARE LICENSE B Version 2.0.
 http://oss.sgi.com/projects/FreeB/
 
+[algorithm](alg_outline.md)
+
 
 Mikko Mononen
 memon@inside.org
 
 
-algo
-[a relative link](alg_outline.md)
+
