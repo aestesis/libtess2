@@ -1,5 +1,5 @@
-Libtess2
-========
+Swift Libtess2
+==============
 Version 1.0.1
 
 
@@ -17,3 +17,7 @@ http://oss.sgi.com/projects/FreeB/
 
 Mikko Mononen
 memon@inside.org
+
+
+algo
+[a relative link](alg_outline.md)
